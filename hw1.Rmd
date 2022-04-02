@@ -147,4 +147,4 @@ corrplot(M, order = 'AOE', method = 'number', type = 'lower', diag = FALSE)
 
 Which variables are positively or negatively correlated with which others? Do these relationships make sense to you? Are there any that surprise you?
 
-The variables cyl and displ were positively correlated with each other, as well as the variables hwy and cty. On the other hand the relationships between cty and displ, cty and cyl, hwy and displ, and hwy and cyl were negatively correlated with one another. 
+The variables cyl and displ were positively correlated with each other, as well as the variables hwy and cty. On the other hand the relationships between cty and displ, cty and cyl, hwy and displ, and hwy and cyl were negatively correlated with one another. These relationships do make sense to me, as I believe that city and highway mpg should be positively related to one another. 
